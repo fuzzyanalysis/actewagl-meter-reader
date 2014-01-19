@@ -1,0 +1,67 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    
+    <style name="GasActivityAverages">
+        <item name="android:text">Bold</item>
+        <!-- <item name="android:layout_width">wrap_content</item>  -->
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#05A696</item>
+        <item name="android:textColor">#F2EBDF</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    <style name="GasActivityList">
+        <item name="android:background">#A9D9D4</item>
+        <item name="android:foreground">#000000</item>
+        <item name="android:height">20sp</item>
+        <!--  <item name="android:foreground">#C0C0C0</item> -->
+    </style>
+
+    <style name="GasEdit">
+        <item name="android:text">Bold</item>
+        <item name="android:background">#A9D9D4</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    <style name="GasEditHeader">
+        <item name="android:text">Bold</item>
+        <!-- <item name="android:layout_width">wrap_content</item>  -->
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#05A696</item>
+        <item name="android:textColor">#F2EBDF</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    
+    <style name="ElectricityActivityAverages">
+        <item name="android:text">Bold</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#F26435</item>
+        <item name="android:textColor">#F2F0D5</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    <style name="ElectricityActivityList">
+        <item name="android:background">#F2C49B</item>
+        <item name="android:foreground">#000000</item>
+        <item name="android:height">20sp</item>
+    </style>
+    
+    <style name="ElectricityEdit">
+        <item name="android:text">Bold</item>
+        <item name="android:background">#F2C49B</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+    
+    <style name="ElectricityEditHeader">
+        <item name="android:text">Bold</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#F26435</item>
+        <item name="android:textColor">#F2F0D5</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    
+
+</resources>

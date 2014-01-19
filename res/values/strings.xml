@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">ACTEWAGL Meter Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ACTEWAGL Meter Reader</string>
+    <string name="title_activity_gas">ACTEWAGL Gas Usage</string>
+    <string name="title_activity_electricity">ACTEWAGL Electricity Usage</string>
+    <string name="add_values">Add values to the chart</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="add">Add</string>
+    <string name="new_series">New Series</string>
+    <string name="title_activity_chart">Meter Reading Chart</string>
+    <string name="title_activity_tabs">ACTEWAGL Meter Reader</string>
+    <string name="menu_gas_insert">Add Gas Reading</string>
+    <string name="menu_electricity_insert">Add Electricity Reading</string>
+    <string name="no_readings">No Readings</string>
+    
+    <string name="menu_insert">Add Reading</string>
+    <string name="menu_delete">Delete Reading</string>
+    <string name="gasdoe">Date of Entry: </string>
+    <string name="electricitydoe">Date of Entry: </string>
+    <string name="gas">Gas Reading: </string>
+    <string name="elec04_text">Tariff 04 Reading: </string>
+    <string name="elec05_text">Tariff 05 Reading: </string>
+    <string name="elec06_text">Tariff 06 Reading: </string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_reading">Edit Reading</string>
+    
+    
+
+</resources>
